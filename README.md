@@ -10,4 +10,5 @@ The data I use is from a survey that is filled in by 94 CMD-students. The questi
 
 ## License & Copyright
 © [David van Rumpt](https://github.com/davidvanr21)
+
 Licensed under the [MIT License](https://github.com/davidvanr21/functional-programming/blob/main/LICENSE)
