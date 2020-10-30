@@ -23,5 +23,14 @@ npm install
 npm run dev
 ```
 
+## Resources
+Recourses I used to come up with ideas and data.
+
+
+## Credits
+There are a few people that helped me out with problems or something else. Therefore a big shoutout to:
+- [Chelsea Doeleman](https://github.com/chelseadoeleman)
+- [Ralf Zonneveld](https://github.com/ralfz123)
+
 ## License & Copyright
 Licensed under the [MIT License](https://github.com/davidvanr21/functional-programming/blob/main/LICENSE) by © [David van Rumpt](https://github.com/davidvanr21), 2020
