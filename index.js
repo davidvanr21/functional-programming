@@ -17,15 +17,10 @@
 
 // console.log(dogs.map(dog => dog.name))
 
-console.log('David')
+console.log('SurveyData')
 
-var orders = [
-    { amount: 250 },
-    { amount: 400 },
-    { amount: 100 },
-    { amount: 325 }
-]
+// Import JSON file
+fetch("surveyData.json")
+ .then(response => response.json())
+ .then(json => console.log(json));
 
-var totalAmount = orders.reduce((sum, order) => sum + order.amount, 0)
-
-console.log(totalAmount);
